@@ -1,0 +1,7 @@
+{
+  "core": ["#900skeletons", "#cryptography", "#codex", "#cypher"],
+  "pool": ["#creepypasta", "#justgirlythings", "#currentaffairs", "#mystery", "#dailypost", "#collection", "#scary", "#creepy", "#puzzle", "#code", "#secret", "#horror"],
+  "per_character": {
+    "001": ["#firstblood"]
+  }
+}

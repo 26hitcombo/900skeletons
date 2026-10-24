@@ -1,0 +1,21 @@
+{
+  "background": "assets/background.png",
+  "characters_dir": "assets/characters",
+  "count": 18,
+  "grid": {
+    "cols": 9,
+    "rows": 2,
+    "x0": 400,
+    "y0": 2550,
+    "cell_w": 250,
+    "cell_h": 300
+  },
+  "max_char_size": [
+    130,
+    200
+  ],
+  "caption_text": "",
+  "max_hashtags": 25,
+  "allow_repeats": true,
+  "cooldown_posts": 7
+}
